@@ -27,6 +27,8 @@ This project analyzes healthcare claims data to uncover trends in insurance payo
 
 4. Follow-up required
 
+![Alt Text](Dashboard%202.png)
+
 **Dashboards** :
 
 1. Bar Charts
