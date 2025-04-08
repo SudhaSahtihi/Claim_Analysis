@@ -3,11 +3,23 @@ Interactive Tableau dashboard analyzing healthcare claims data to uncover trends
 
 Dataset sourced from **Alex The Analyst’s GitHub repository** on healthcare analytics for educational and portfolio use.
 
-**Overview:**
+**Project Overview:**
 
-This project analyzes healthcare claims data to uncover trends in insurance payouts, claim status distribution, and follow-up rates. Using Excel and Tableau, it visualizes performance metrics to help identify inefficiencies and cost drivers in a simplified claims dataset.
+This project focuses on analyzing a healthcare claims dataset to identify financial trends, operational patterns, and opportunities for administrative improvements. Using a cleaned sample of claims data, we created key performance indicators (KPIs) and visualized them using Tableau to support decision-making in a healthcare finance context.
 
-**Project Summary** :
+**Dataset** :
+
+Source: [Alex The Analyst's Github - HealthcareAnalytics](https://github.com/AlexTheAnalyst/HealthcareAnalytics/blob/main/claims_data.csv)
+
+Data Used: claims_data.csv (60-row sample cleaned and converted to .xlsx for Tableau)
+
+**Tools Used** :
+
+Python(Pandas) : Data sampling, cleaning, and formatting
+
+Excel: Data cleaning and preparation
+
+Tableau: KPI dashboards and data storytelling
 
 **Data Cleaning & Preparation** : 
 
@@ -15,7 +27,8 @@ This project analyzes healthcare claims data to uncover trends in insurance payo
 
 - Removed missing values and standardized date formats.
 
-- Ensured columns like Paid Amount, Claim Status, and Follow-up Required were clean and analysis-ready.
+- Standardized Date Formats and Renamed Columns for Clarity
+
 
 **Key KPIs** :
 
@@ -23,9 +36,9 @@ This project analyzes healthcare claims data to uncover trends in insurance payo
 
 2. Average Paid Amount
 
-3. Claim Approval Rate
+3. Claim Approval Rate (based on 'Paid' status)
 
-4. Follow-up required
+4. Follow-up required (based on 'Yes' values)
 
 ![Alt Text](Dashboard%202.png)
 
@@ -49,13 +62,15 @@ This project analyzes healthcare claims data to uncover trends in insurance payo
 
    ![Alt Text](Sheet%205.png)
 
-**Tools Used** :
+**Key Insights from Python Data Exploration** :
 
-Python : Pre-cleaning for sampling and export
+1. The insurance provider contributing the highest total paid amount is **Medicaid**, accounting for **3920** in reimbursements.
 
-Excel: Data cleaning and preparation
+2. The average claim payout is **$ 184.2**, with a total paid amount of **$ 11051**.
 
-Tableau: KPI dashboards and data storytelling
+3. Approximately **28.3%** of claims were approved, while 50% required a follow-up.
+
+4. Follow-up required claims signal either unresolved diagnoses or admininstrative delays.
 
 **What I Achieved through this Project** :
 
@@ -69,12 +84,7 @@ Tableau: KPI dashboards and data storytelling
 
 - Made the data usable for administrative decision-making, reporting, or further healthcare analytics.
 
-**Insights from Python Data Exploration** :
-
-1. The insurance provider contributing the highest total paid amount is **Medicaid**, accounting for **3920** in reimbursements.
-
-2. The average claim payout is **$ 184.2**, with a total paid amount of **$ 11051**.
-
-3. Approximately 28.3% of claims were approved, while 50% required a follow-up.
-
-4. Follow-up required claims signal either unresolved diagnoses or admininstrative delays.
+Author
+Sudha Sahithi Murikipudi
+Aspiring Healthcare Data Analyst | Master’s in Data Science
+Connect with me on Linkedin : [](https://www.linkedin.com/in/sudhasahithi/)
