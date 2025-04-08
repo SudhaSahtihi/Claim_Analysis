@@ -37,7 +37,7 @@ This project analyzes healthcare claims data to uncover trends in insurance payo
    
    Follow-Up Required (Yes/No)
 
-2. Pie Chart
+2. Line Chart
 
    Claim Status Distribution
 
