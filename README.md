@@ -41,9 +41,13 @@ This project analyzes healthcare claims data to uncover trends in insurance payo
 
    Claim Status Distribution
 
-3. Interactive Table
+   ![Alt Text](Dashboard1.png)
+
+4. Interactive Table
 
    Claims by ID, Date, Status, and Insurance Type
+
+   ![Alt Text](Sheet%205.png)
 
 **Tools Used** :
 
