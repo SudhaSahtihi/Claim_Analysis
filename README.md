@@ -1,8 +1,8 @@
 # Healthcare Claim Analysis
 Interactive Tableau dashboard analyzing healthcare claims data to uncover trends in insurance payouts, claim statuses, and follow-up rates.
 
-**Dataset sourced from Alex The Analyst’s GitHub repository on healthcare analytics for educational and portfolio use.
-**
+Dataset sourced from **Alex The Analyst’s GitHub repository** on healthcare analytics for educational and portfolio use.
+
 **Overview:**
 
 This project analyzes healthcare claims data to uncover trends in insurance payouts, claim status distribution, and follow-up rates. Using Excel and Tableau, it visualizes performance metrics to help identify inefficiencies and cost drivers in a simplified claims dataset.
