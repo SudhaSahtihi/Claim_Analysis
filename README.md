@@ -87,4 +87,4 @@ Tableau: KPI dashboards and data storytelling
 Author
 Sudha Sahithi Murikipudi
 Aspiring Healthcare Data Analyst | Master’s in Data Science
-Connect with me on Linkedin : [](https://www.linkedin.com/in/sudhasahithi/)
+Connect with me on : [Linkedin](https://www.linkedin.com/in/sudhasahithi/)
